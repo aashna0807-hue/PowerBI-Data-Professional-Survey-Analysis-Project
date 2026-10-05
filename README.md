@@ -1,4 +1,4 @@
-# 📊 Data Professional Survey Analysis (Power BI)
+# 📊 Data Professional Survey Analysis
 
 ## Overview
 
@@ -6,7 +6,7 @@ This project is an interactive Power BI dashboard built using survey data from d
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](data_survey_dashboard.png)
 
 ## Features & Visualizations
 
@@ -16,6 +16,7 @@ This project is an interactive Power BI dashboard built using survey data from d
 - Stacked bar chart - Compared average salaries across different data-related job roles.
 - Donut chart - Analyzed how difficult respondents found it to enter the data industry.
 - Cards - Displayed KPIs such as Count of Survey Takers and Average Age.
+- Slicer - Filtered the data by industry.
 - Gauges - Displayed KPIs such as Work-Life Balance Rating and Salary Satisfaction Rating.
 
 ## Key Insights
